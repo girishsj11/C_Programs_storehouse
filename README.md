@@ -24,3 +24,7 @@ The program will displays the input number's square & cube of it.
 ### ***Program_6.c***
 
 Program is to compare a user entered strings with respect to its length & letters.
+
+### ***Program_7.c***
+
+Program to show the difference on sprintf & printf functions with example .
