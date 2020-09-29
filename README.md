@@ -28,3 +28,7 @@ Program is to compare a user entered strings with respect to its length & letter
 ### ***Program_7.c***
 
 Program to show the difference on sprintf & printf functions with example .
+
+### ***Program_8.c***
+
+Program is to print the number of letters & spaces & new lines and other characters in a text files.
