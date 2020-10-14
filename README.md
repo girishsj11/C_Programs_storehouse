@@ -32,3 +32,7 @@ Program to show the difference on sprintf & printf functions with example .
 ### ***Program_8.c***
 
 Program is to print the number of letters & spaces & new lines and other characters in a text files.
+
+### ***Program_9.c***
+
+Program will prints the length of string.
