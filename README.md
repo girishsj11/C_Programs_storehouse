@@ -36,3 +36,7 @@ Program is to print the number of letters & spaces & new lines and other charact
 ### ***Program_9.c***
 
 Program will prints the length of string.
+
+### ***Program_10.c***
+
+Program is to count the whitespaces in the input string variable.
