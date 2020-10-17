@@ -6,7 +6,7 @@ void mystrcmp(char str1[],char str2[]);
 int main()
 {
 	char a[10],b[10];
-    printf("Welcome to string comparison Program \n ");
+    	printf("Welcome to string comparison Program \n ");
 	printf("Enter the 1st string : \t");
 	scanf("%s",a);
 	printf("Enter the 2nd string : \t");
