@@ -12,7 +12,7 @@ int main()
 	printf("Enter the 2nd string : \t");
 	scanf("%s",b);
 	mystrcmp(a,b);
-    return 0;
+    	return 0;
 }
 
 void mystrcmp(char str1[],char str2[])
