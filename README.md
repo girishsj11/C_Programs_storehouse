@@ -44,3 +44,7 @@ Program is to count the whitespaces in the input string variable.
 ### ***Program_11.c***
 
 Program is to shows the difference of pointer to variable & pointer to a pointer , its addresses & values .
+
+### ***Program_12.c***
+
+Program is to tells you that whether its successfully able to create a text file or not with file operation functions in write mode .
