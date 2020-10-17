@@ -1,9 +1,20 @@
-#include <stdio.h>
-#include <string.h>
-int main(void)
+#include<stdio.h>
+int main()
 {
-    char string[]="";
-    //provide your string on above variable
-    printf("The length of string is: %d",strlen(string));
+    char str[100];
+    int i,count=0;
+    printf("Enter any string : ");
+    gets(str);
+
+    for(i=0;str[i];i++)
+    {
+        if(str[i] != "\0")
+        {
+            count++;
+        }
+    }
+
+    printf("\nTotal characters or length of a input string is  : %d",count);
     return 0;
 }
+
