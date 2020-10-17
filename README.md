@@ -40,3 +40,7 @@ Program will prints the length of string.
 ### ***Program_10.c***
 
 Program is to count the whitespaces in the input string variable.
+
+### ***Program_11.c***
+
+Program is to shows the difference of pointer to variable & pointer to a pointer , its addresses & values .
