@@ -1,9 +1,17 @@
 #include <stdio.h>
 #include <string.h>
-int main(void)
+int main()
 {
-    char string[]="";
-    //provide your string on above variable
-    printf("The length of string is: %d",strlen(string));
-    return 0;
+  char a[]="";
+  int length;
+
+  printf("Enter a string to calculate its length\n");
+  gets(a);
+  //using gets function , we can even count the whitespaces & we can give only one whitespace as a input string to find its string.
+  length = strlen(a);
+
+  printf("Length of the string = %d\n", length);
+
+  return 0;
 }
+
