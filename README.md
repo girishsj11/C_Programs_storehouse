@@ -48,6 +48,4 @@ Program is to shows the difference of pointer to variable & pointer to a pointer
 ### ***Program_12.c***
 
 Program is to tells you that whether its successfully able to create a text file or not with file operation functions in write mode .
-prints the output text file as below :
 
-![output text file](/Program_12/abcd.txt)
