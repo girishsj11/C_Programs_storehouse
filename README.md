@@ -49,3 +49,7 @@ Program is to shows the difference of pointer to variable & pointer to a pointer
 
 Program is to tells you that whether its successfully able to create a text file or not, with file operation functions in write mode .
 
+
+### ***Program_13.c***
+
+Program is to reverse the user input string without using any of the builtin string functions.
